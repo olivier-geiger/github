@@ -1,0 +1,19 @@
+.app{
+  width: 90%;
+  max-width: 800px;
+  margin: auto;
+  min-height: 100vh;
+  background-color: #ecf0f1;
+  color: #2c3e50;
+  padding: 1rem;
+}
+
+.header{
+  text-align: center;
+}
+
+.logo{
+  max-width: 200px;
+  height: auto;
+}
+
